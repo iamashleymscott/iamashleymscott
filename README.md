@@ -1,8 +1,8 @@
-[![MaterHead](https://www.freepik.com/premium-vector/web-development-coding-programming-banner-computer-code-vector-illustration_25976391.htm)]
-
+![Ashley's GitHub Banner](designdev.gif)
+ 
 <h1 align="center">Hi 👋, I'm Ashley Scott</h1>
 <h3 align="center">Designer & Web Developer</h3>
-<img src="https://tenor.com/view/programming-gif-25868426" align="right" alt="Coding" width="400">
+<img src="codegif.gif" align="right" alt="Coding" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamashleymscott&label=Profile%20views&color=0e75b6&style=flat" alt="iamashleymscott" /> </p>
 

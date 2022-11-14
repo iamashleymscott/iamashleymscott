@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi 👋, I'm Ashley Scott</h1>
 <h3 align="center">Designer & Web Developer</h3>
-<img src="codegif.gif" align="right" alt="Coding" width="300">
+<img src="githubgif.gif" align="right" alt="Coding" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamashleymscott&label=Profile%20views&color=0e75b6&style=flat" alt="iamashleymscott" /> </p>
 
